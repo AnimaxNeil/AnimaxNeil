@@ -6,4 +6,4 @@ I make apps, games and websites for fun.
 
 #### Contact Info  
 *email* : animaxneil@gmail.com  
-*website* : http://animaxneil.epizy.com  
+*website* : https://www.animaxneil.com  
